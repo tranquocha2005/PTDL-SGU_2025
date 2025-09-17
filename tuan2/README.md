@@ -7,3 +7,4 @@
 - Biến và kiểu dữ liệu
 - List, Tuple, Set, Dictionary
 - Bài tập nhỏ: Tính BMI
+- Bài tập cơ bản
