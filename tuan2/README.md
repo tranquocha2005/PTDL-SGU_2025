@@ -1,4 +1,4 @@
-# 🗂 Tuần 2: Python cơ bản
+# 🗂 Python cơ bản
 
 Đây là thư mục chứa bài tập **Python tuần 2**.
 
